@@ -1,0 +1,10 @@
+#env
+*.env
+
+langchain/
+.langchain/
+
+__pycache__/
+*.pyc 
+
+.ipynb_checkpoints/
